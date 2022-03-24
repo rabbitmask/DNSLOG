@@ -1,5 +1,5 @@
 # DNSLOG
-dnslog 优化版
+dnslog 优化
 
 >源项目地址：https://github.com/lanyi1998/DNSlog-GO
 
